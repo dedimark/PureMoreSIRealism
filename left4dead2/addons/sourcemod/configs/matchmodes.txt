@@ -1,31 +1,17 @@
 "MatchModes"
 {
-	"AnneHappy药役"
+	"固定时间刷新写实模式"
 	{
 		"AnneHappy"
 		{
-			"name" "AnneHappy药役"
+			"name" "固定时间刷新写实模式"
 		}
 	}
-	"1vHunters模式"
+	"引擎刷新写实模式"
 	{
 		"AnneHanpy"
 		{
-			"name" "1vHunters模式"
-		}
-	}
-	"单人装B模式"
-	{
-		"Alone"
-		{
-			"name" "单人装B模式"
-		}
-	}
-	"WitchParty模式"
-	{
-		"WitchParty"
-		{
-			"name" "WitchParty模式"
+			"name" "引擎刷新写实模式(4特)"
 		}
 	}
 }
