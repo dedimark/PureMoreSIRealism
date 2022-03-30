@@ -2,10 +2,10 @@
 {	
 	"2343"
 	{
-		"servername"	"电信服写实多特#1"
+		"servername"	"电信服写实多特1服"
 	}
 	"2344"
 	{
-		"servername"	"电信服写实多特#2"
+		"servername"	"电信服写实多特2服"
 	}
 }
