@@ -8,7 +8,7 @@
 	"2"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}当前模式:{GREEN}绝境求生24特{LIGHTGREEN}，刷新模式:{GREEN}引擎刷特"
+		"text"		"{LIGHTGREEN}服务器提供写实多特模式和写实绝境求生模式，并且能够打开死门，输入!vote投票"
 	}
 	"3"
 	{
@@ -23,7 +23,7 @@
 	"5"
 	{
 		"type"		"S"
-		"text"		"{LIGHTGREEN}输入!dance跳跳舞解解压"
+		"text"		"{LIGHTGREEN}输入!dance跳跳舞解解压，如果看不到舞蹈效果，请steam联机内打开允许全部联机内容"
 	}
 	"6"
 	{
