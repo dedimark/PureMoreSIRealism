@@ -88,10 +88,10 @@
 	}
 	"Current status3"
 	{
-		"#format"		"{1:d},{2:d},{3:d}"
-		"en"			"Numbers of Alive Survivor: {1}, Infected Limit: {2}, Tank Health: {3}"
-		"zho"			"目前倖存者存活人數: {1}, 特感上限: {2}, Tank血量: {3}"
-		"chi"			"目前生还者存活人数: {1}, 特感上限: {2}, Tank血量: {3}"
+		"#format"		"{1:d},{2:d},{3:d},{4:d}"
+		"en"			"Numbers of Alive Survivor: {1}, Infected Limit: {2}, Tank Health: {3}, Infected Spawn Time: {4}"
+		"zho"			"目前倖存者存活人數: {1}, 特感上限: {2}, Tank血量: {3}, 特感刷新时间: {4}"
+		"chi"			"目前生还者存活人数: {1}, 特感上限: {2}, Tank血量: {3}, 特感刷新时间: {4}"
 	}
 	"Current status4"
 	{
